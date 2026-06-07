@@ -10,7 +10,7 @@ Trabalho de adaptação a partir do código-base do **Prof. Alex Salazar**, orig
 
 ## Mapa final
 
-![Mapa de Suscetibilidade a Inundações de Blumenau/SC](outputs/hand_blumenau_susceptibility_map.png)
+![Mapa de Suscetibilidade a Inundações de Blumenau/SC](github.com/RoseBorges44/Americas-TechGuard-Semana6/blob/main/hand_blumenau_susceptibility_map.png)
 
 Resultados quantitativos na área de contribuição hidrográfica (2.228 km²):
 
