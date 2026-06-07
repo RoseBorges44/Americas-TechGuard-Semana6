@@ -1,0 +1,24 @@
+# Bibliotecas geoespaciais
+geopandas
+rasterio
+rioxarray
+shapely
+fiona
+contextily
+
+# Hidrologia (algoritmos HAND/D8)
+whitebox>=2.3.2
+pysheds
+
+# Catálogos STAC (DEM Copernicus via Microsoft Planetary Computer)
+pystac-client
+planetary-computer
+
+# Análise e visualização
+matplotlib
+scipy
+scikit-learn
+pykrige
+
+# Brasil / dados hidrológicos
+hydrobr
