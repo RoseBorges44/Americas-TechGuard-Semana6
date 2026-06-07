@@ -89,6 +89,7 @@ Detalhes completos no [relatório técnico em PDF](relatorio_HAND_blumenau.pdf).
 
 ## Produtos gerados
 
+https://drive.google.com/drive/folders/1aZ4Y9P4Ie_NE7zLnn2dPT6oHFfzNrMXa?usp=sharing
 - `outputs/hand_blumenau_susceptibility_map.png` — mapa final colorido (figura do relatório).
 - `outputs/hand_blumenau_susceptibility_classes.tif` — raster classificado (uint8, 0–3) em EPSG:3857; pronto para uso em SIG.
 - `hand_blumenau_hand.tif` (não versionado — 27 MB, regenerável pelo notebook) — raster HAND contínuo em metros (float32).
@@ -105,7 +106,7 @@ Esta atividade integra a trilha técnica do **Americas TechGuard**, projeto mult
 
 - **Código-base original (Porto Alegre/RS):** Prof. Alex Salazar (UniSENAI/SC)
 - **Orientação acadêmica:** Prof. Lucas Moreira de Lacerda
-- **Adaptação para Blumenau/SC:** [SEU NOME]
+- **Adaptação para Blumenau/SC:** Rosemeri Borges
 
 ---
 
