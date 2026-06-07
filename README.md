@@ -83,7 +83,7 @@ Depois abra o `.ipynb` no VS Code (extensão Jupyter), selecione o kernel `techg
 3. **Condicionamento do DEM**: troca de `fill_depressions` por `breach_depressions_least_cost(dist=500)` por dois motivos — (i) inadequação do `fill` ao relevo montanhoso do Vale do Itajaí (mais de 30 min de execução sem progresso); (ii) bug latente no código-base, que omitia o argumento obrigatório `dist`.
 4. **Workspace local em Colab**: redirecionamento do `work_dir` do WhiteboxTools para o SSD local da VM (`/content/work_hand/`), eliminando latência de I/O via Drive nos rasters intermediários (~100 MB cada). O notebook detecta o ambiente e ajusta os caminhos automaticamente.
 
-Detalhes completos no [relatório técnico em PDF](relatorio_HAND_blumenau.pdf).
+Detalhes completos no [relatório técnico em PDF](https://github.com/RoseBorges44/Americas-TechGuard-Semana6/blob/main/Semana%206%20%E2%80%93%20Mapa%20de%20suscetibilidade.pdf)
 
 ---
 
@@ -117,4 +117,4 @@ Esta atividade integra a trilha técnica do **Americas TechGuard**, projeto mult
 - NOBRE, A. D. et al. **Height Above the Nearest Drainage — a hydrologically relevant new terrain model**. *Journal of Hydrology*, v. 404, n. 1-2, p. 13–29, 2011. DOI: 10.1016/j.jhydrol.2011.03.051
 - UNDRR. **Sendai Framework Terminology on Disaster Risk Reduction**. United Nations Office for Disaster Risk Reduction, Geneva, 2017.
 
-Lista completa de referências no [relatório técnico](relatorio_HAND_blumenau.pdf).
+Lista completa de referências no [relatório técnico][(relatorio_HAND_blumenau.pdf).](https://github.com/RoseBorges44/Americas-TechGuard-Semana6/blob/main/Semana%206%20%E2%80%93%20Mapa%20de%20suscetibilidade.pdf)
